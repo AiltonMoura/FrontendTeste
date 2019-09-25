@@ -121,7 +121,7 @@ created () {
 };
 
 .container-fluid {
-  background-image: url('./images/background.png').
+  background-image: url('./images/background.png');
   height: 100%;
 }
 

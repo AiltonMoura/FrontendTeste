@@ -1,6 +1,6 @@
 ### Teste Front End
 
-Faça download do projeto
+Faça o clone do projeto
 
 Instale as depêndencias
 ```sh
